@@ -1,0 +1,16 @@
+artifact_uri: file:///C:\Users\gaikw\Desktop\Data Science\projects\mlopsDQ\notebooks\..\mlruns/776222982643067643/d8a425fd972247d382989615b67f29ba/artifacts
+deleted_time: 1687024600815
+end_time: 1687002487641
+entry_point_name: ''
+experiment_id: '776222982643067643'
+lifecycle_stage: deleted
+run_id: d8a425fd972247d382989615b67f29ba
+run_name: randomforest
+run_uuid: d8a425fd972247d382989615b67f29ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687002431761
+status: 4
+tags: []
+user_id: gaikw

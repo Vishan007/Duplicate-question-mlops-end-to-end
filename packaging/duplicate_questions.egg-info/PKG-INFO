@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: duplicate-questions
+Version: 0.1
+Summary: Classify duplicate questions.
+Home-page: 
+Author: Vishal Gaikwad
+Author-email: gaikwadvishal114@gmail.com
+Requires-Python: >=3.8

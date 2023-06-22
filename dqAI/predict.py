@@ -15,6 +15,7 @@ def predict(q1,q2, artifacts):
     x = np.hstack((x,np.array([0]).reshape(1,-1)))
     y_pred_prob = artifacts["model"].predict_proba(x)
     y_pred = artifacts["model"].predict(x)
+    y_pred = artifacts["model"].custom_predict(y_pred_prob,0.55,0)
     if y_pred == 0:
         tex = 'not duplicate'
     else:
@@ -23,8 +24,6 @@ def predict(q1,q2, artifacts):
         {
             "question1": q1,
             "question2": q2,
-        },
-        {
             "predicted_tag": f"{tex}"
         }
     ]

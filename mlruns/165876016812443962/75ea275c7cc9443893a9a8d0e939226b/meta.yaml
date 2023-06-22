@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\gaikw\Desktop\Data Science\projects\mlopsDQ\notebooks\..\experiments/165876016812443962/75ea275c7cc9443893a9a8d0e939226b/artifacts
+end_time: 1686999214954
+entry_point_name: ''
+experiment_id: '165876016812443962'
+lifecycle_stage: active
+run_id: 75ea275c7cc9443893a9a8d0e939226b
+run_name: sgd
+run_uuid: 75ea275c7cc9443893a9a8d0e939226b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686999107992
+status: 3
+tags: []
+user_id: gaikw

@@ -14,6 +14,7 @@ app = FastAPI(
     version="0.1"
 )
 
+
 @app.on_event("startup")
 def load_artifacts():
     """
